@@ -59,6 +59,8 @@ Front Content::Back Content
 * **Don't Know:** Resets the interval, marks the card due immediately, and recycles it back into the current study queue until answered correctly.
 * New cards are immediately due upon creation.
 
+* There's also something called a "Cram" mode. It allows you to run through your entire deck without affecting the SRS algorithm, as much as you'd like.
+
 ### 7. Local-First Persistence & Portability
 
 * **IndexedDB Storage:** Persists all decks, cards, edits, and SRS review metadata locally in the browser across reloads.
